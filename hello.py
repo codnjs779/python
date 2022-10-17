@@ -28,3 +28,7 @@ print(dssdf)
 
 dfd = f'hee{name}'
 print(dfd)
+
+bo = 'honn'
+print('ciy', bo.count('n'))
+# index => 인덱스 번호 출력 
